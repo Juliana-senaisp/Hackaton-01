@@ -708,6 +708,10 @@ footer {
     }
 } 
 
-#desafios {
+.container-desafios {
     display: none;
+}
+.texto-desafios {
+    text-align: center;
+    font-size: 30px;
 }
