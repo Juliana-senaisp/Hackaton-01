@@ -558,6 +558,17 @@ footer {
         font-size: 1.8rem;
     }
 
+    .item-contagem {
+        margin: 0 20px;
+    }
+
+    .contagem-regressiva {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
     .cartao-desafio h3 {
         font-size: 1.5rem;
     }
