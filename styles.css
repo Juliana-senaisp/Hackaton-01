@@ -707,3 +707,7 @@ footer {
         margin: 1rem auto;
     }
 } 
+
+#desafios {
+    display: none;
+}
