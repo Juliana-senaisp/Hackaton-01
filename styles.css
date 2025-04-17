@@ -67,10 +67,10 @@ nav {
 #inicio {
     height: 100vh;
     background: linear-gradient(135deg, rgba(47, 53, 89, 0.9), rgba(154, 80, 113, 0.9)),
-                url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80');
+                url("images/fundo.png");
+    /* background-position: center; */
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     display: flex;
     align-items: center;
     justify-content: center;
